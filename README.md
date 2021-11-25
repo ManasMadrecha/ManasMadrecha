@@ -65,6 +65,7 @@ Both the projects are based on Nuxt, written in markdown, and are open source, a
 - Web UI, SASS/SCSS, Gradients
 - Blogging in general, Guest posting on my blog
 - SEO targetting, Faster Websites
+- Linguistics, Translation services
 - Jainism metaphysics
 
 ## 📫 How to reach me:
