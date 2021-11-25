@@ -58,6 +58,15 @@ Both the projects are based on Nuxt, written in markdown, and are open source, a
 - Beautiful advanced CSS, gradients
 - Poetry, Motivational stories and blogs
 
+## 💬 Ask me about
+
+- Chartered Accountancy, Financial statements
+- Govt competitive exams, Current Affairs
+- Web UI, SASS/SCSS, Gradients
+- Blogging in general, Guest posting on my blog
+- SEO targetting, Faster Websites
+- Jainism metaphysics
+
 ## 📫 How to reach me:
 
 1. 👨🏻‍💼 LinkedIn: https://www.linkedin.com/in/manasmadrecha/ (3,000+)
