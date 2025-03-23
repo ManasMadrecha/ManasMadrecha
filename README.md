@@ -48,7 +48,11 @@ Here are some ideas to get you started:
 
 ## Tech Stack + Productivity Tools
 
-I am a financial analyst, entrepreneur, and a full-stack developer and love to code new things. My tools of choice include:
+I am a financial analyst, entrepreneur, and a full-stack developer and love to code new things. 
+
+[![ManasMadrecha Nuxter profile](https://nuxters.nuxt.com/card/ManasMadrecha/og.png)](https://nuxters.nuxt.com/ManasMadrecha)
+
+My tools of choice include:
 
 - **Web development**:
   - TypeScript, JavaScript, Vue, Nuxt for full-stack development
