@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## Work Interests
 
-- I am the **founder of [Manas Money](https://manasmoney.com)**, an investment app for Indian .
+- I am the **founder of [Manas Money](https://manasmoney.com)**, a Free Financial Planning service to build ₹5 Crore Retirement Fund.
   - I am a **AMFI Registered MFD** and provide mutual funds recommendations based on fundamental analysis.
   - Manas Money also provides portfolio review and analysis.
   - Manas Money's website is built by me from scratch using Nuxt 3, Tailwind 4, Cloudflare, and Hono.
