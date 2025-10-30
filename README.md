@@ -15,21 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> CA Manas Madrecha is a Mumbai-based entrepreneur and investor. 
+> CA Manas Madrecha is a Mumbai-based Financial Advisor and investor. 
 
 - **Qualifications**: Chartered Accountant, Company Secretary (Executive level), Bachelor of Commerce
-- **Officially**: SEBI Registered + NISM Certified
-- **Self-taught**: Full-stack development, UI/UX design, SEO, and marketing.
+- **Officially**: AMFI Registered + NISM Certified
+- **Professionally**: Mutual Funds advisor, Financial planner, Portfolio guide
+- **Self-taught**: Full-stack development, UI/UX design, SEO, and Marketing.
 
 ## Work Interests
 
-- I am the **founder of [Manas Money](https://app.manasmoney.in)**, an investment app for Indian investors.
-  - I am a **SEBI Registered Research Analyst** and provide stock market ideas and recommendations based on fundamental analysis.
-  - It also provides portfolio review and analysis.
-  - It is a service-based product built by me from scratch using Nuxt3, Tailwind, Cloudflare, and Hono.
+- I am the **founder of [Manas Money](https://manasmoney.com)**, an investment app for Indian .
+  - I am a **AMFI Registered MFD** and provide mutual funds recommendations based on fundamental analysis.
+  - Manas Money also provides portfolio review and analysis.
+  - Manas Money's website is built by me from scratch using Nuxt 3, Tailwind 4, Cloudflare, and Hono.
 - I also look after CA Practice of our family firm [Madrecha & Co - Chartered Accountants](https://madrecha.com/ca).
 - I am an avid **investor** in Indian stock market, having **achieved over 1600% returns in last 6 years**. 🚀
-- I have earlier worked in **CFO Office** at Tata Trent, and as a **Planning Manager** at ICICI Bank.
+- I have earlier worked in **CFO Office** at Tata Trent, and as a **Planning Manager** at ICICI Bank HQ.
 - I have been a **product manager** at [Jamku](https://jamku.com), an office management software for Chartered Accountants.
 - I am also a **full-stack developer** and looking to create SaaS products. 
 
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
 - I am the co-author of a book on Hindi poetry available on Amazon.
 - As a polyglot, I am well-versed in or have preliminary knowledge of multiple languages (English, Hindi, Marathi, Gujarati, Sanskrit, Prakrit, Marwari, Mewari)
 - I love English language TV series (e.g., Game of Thrones, Dark, The 100, Friends, Big Bang, The Office, etc.)
-- I espouse vegetarianism, non-violence, and a spiritual way of life, based on teachings of Mahavira, Vivekananda, and.
+- I espouse vegetarianism, non-violence, and a spiritual way of life, based on teachings of Mahavira and Vivekananda.
 
 ## Tech Stack + Productivity Tools
 
@@ -56,18 +57,18 @@ My tools of choice include:
 
 - **Web development**:
   - TypeScript, JavaScript, Vue, Nuxt for full-stack development
-  - Tailwind, Daisy UI, Radix Vue, Shadcn for UI/UX design
+  - Tailwind and Nuxt UI for UI/UX design
   - CSS, SCSS for styling
-  - Cloudflare Workers for serverless applications
-  - Cloudflare Pages for hosting websites and web apps
+  - Cloudflare Workers for hosting websites and web apps
   - Hono for API development
-  - SQLite, PostgreSQL for databases
+  - PostgreSQL, Neon, Drizzle ORM for databases
   - Bubblewrap for app development
   - Google Tag Manager for tracking and analytics
-  - VS Code, Cursor AI, Claude Sonnet 3.5, etc. for coding, writing, and research.
+  - VS Code, Cursor AI, Claude Sonnet 4.5, etc. for coding, writing, and research.
 - **Productivity**:
   - Notion and its API for project management, SaaS product management, user management, etc.
   - Obsidian for personal knowledge management (PKM) and second brain
+  - Mailbluster and AWS SES for email marketing
   - Canva for graphic design
   - MS Excel for financial modeling and analysis
   - AI tools
@@ -87,16 +88,17 @@ My tools of choice include:
 
 ## 🌱 I’m currently learning
 
-1. AI-led product development using LLMs such as Claude Sonnet 3.5, Cursor AI, etc.
+1. AI-led product development using LLMs such as Claude Sonnet 4.5, Cursor AI, etc.
 2. Building SaaS products for small businesses, such as CRM, productivity tools, project management, etc.
 3. Marketing and Sales, especially in the context of SaaS products. 
 
 ## 💬 Ask me about
 
 - Investment ideas and recommendations in Indian stock market.
+- FIRE Planning to become financially independent 
 - SaaS product development and marketing.
 - Web design and full-stack development for your business.
-- As a CA: Personal finance advice, preparing financial statements, and taxation.
+- As a CA: Personal finance advice and tax planning
 - SEO targetting, faster websites, and app development.
 - Jainism metaphysics, spirituality, and philosophy.
 
@@ -104,4 +106,4 @@ My tools of choice include:
 
 1. 👨🏻‍💼 LinkedIn: https://www.linkedin.com/in/manasmadrecha/ (5,000+)
 2. 🖼 Instagram: https://www.instagram.com/manasmadrecha/ (5,000+)
-3. 📧 Mail: madrechamanas[at]gmail.com
+3. 📧 Mail: hi@manasmoney.com
